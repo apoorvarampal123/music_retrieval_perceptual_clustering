@@ -4,7 +4,7 @@
 Built an explainable music similarity engine on 10,000 audio tracks across 10 genres. The system identifies which specific audio dimension (timbre, rhythm, harmony, energy) makes two songs similar — providing explainability that standard cosine similarity cannot offer.
 
 ## Course
-Music Information Retrieval (MIR) — University of Victoria, 2025
+Music Information Retrieval (MIR) — University of Victoria, 2026
 
 ## Tools & Technologies
 - **Language:** Python
