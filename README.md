@@ -49,14 +49,17 @@ Music Information Retrieval (MIR) — University of Victoria, 2026
 - Electronic and Pop are the most sonically diverse genres
 
 ## Project Structure
-DBSCAN_cluster_fingerprint_result/     — DBSCAN clustering outputs
-Kmeans_clustered_samples/              — K-Means clustering results
-Output_files/                          — Final output files
-Song_similarity_files/                 — Similarity engine outputs
-cluster_fingerprint_dbscan_results/    — Fingerprint results
-combined_parquet_after_kmeans/         — Post-clustering data
-demo_data/                             — Demo files
-genre_specific_feature_isolation/      — Per-genre feature files
+
+| Folder | Description |
+|--------|-------------|
+| DBSCAN_cluster_fingerprint_result/ | DBSCAN clustering outputs |
+| Kmeans_clustered_samples/ | K-Means clustering results |
+| Output_files/ | Final output files |
+| Song_similarity_files/ | Similarity engine outputs |
+| cluster_fingerprint_dbscan_results/ | Fingerprint results |
+| combined_parquet_after_kmeans/ | Post-clustering data |
+| demo_data/ | Demo files |
+| genre_specific_feature_isolation/ | Per-genre feature files |
 
 ## My Contributions
 - Audio feature extraction pipeline using librosa
